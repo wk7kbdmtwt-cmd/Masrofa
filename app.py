@@ -23,7 +23,7 @@ def init_db():
 class ExpenseApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("برنامج المصروفات اليومية المتطور")
+        self.root.title("2027برنامج المصروفات اليومية المتطور")
         self.root.geometry("600x620")
         self.root.config(bg="#f4f4f4")
         
